@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
