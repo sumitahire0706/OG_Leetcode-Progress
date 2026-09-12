@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/0050-powx-n) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
