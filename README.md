@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sumitahire0706/OG_Leetcode-Progress/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
